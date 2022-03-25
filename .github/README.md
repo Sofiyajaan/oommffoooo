@@ -1,29 +1,29 @@
-<h1 align="center"><b>❤️ DR VICTOR MUSIC BOT ❤️</b></h1>
+<h1 align="center"><b>❤️ Azam MUSIC BOT ❤️</b></h1>
 
-<h4 align="center">DR VICTOR Music Is A Part Of Alexa Bot Which Is A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ...All Credit Goes To Team Yukki...</h4>
+<h4 align="center">Azam Music Is A Part Of Alexa Bot Which Is A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ...All Credit Goes To Team Yukki...</h4>
 
-<p align="center"><a href="https://t.me/Hitler_fed_owner"><img src="https://telegra.ph/file/169a05691d278557e26ba.png" width="400"></a></p>
+<p align="center"><a href="https://t.me/Azam_sharif_OWNER"><img src="https://te.legra.ph/file/5f9359d8bc341db3ed027.jpg" width="400"></a></p>
 
 <p align="center">
     <a href="https://app.codacy.com/manual/Adarshtiwari1305/oommffoooo/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/Adarshtiwari1305/oommffoooo"> <img src="https://img.shields.io/github/repo-size/Adarshtiwari1305/oommffoooo?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Adarshtiwari1305/oommffoooo/commits/prince"> <img src="https://img.shields.io/github/last-commit/Adarshtiwari1305/oommffoooo?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Adarshtiwari1305/oommffoooo/issues"> <img src="https://img.shields.io/github/issues/Adarshtiwari1305/oommffoooo?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Adarshtiwari1305/oommffoooo/network/members"> <img src="https://img.shields.io/github/forks/Adarshtiwari1305/oommffoooo?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/Sofiyajaan/oommffoooo"> <img src="https://img.shields.io/github/repo-size/Adarshtiwari1305/oommffoooo?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Sofiyajaan/oommffoooo/commits/prince"> <img src="https://img.shields.io/github/last-commit/Adarshtiwari1305/oommffoooo?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Sofiyajaan/oommffoooo/issues"> <img src="https://img.shields.io/github/issues/Adarshtiwari1305/oommffoooo?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Sofiyajaan/oommffoooo/network/members"> <img src="https://img.shields.io/github/forks/Adarshtiwari1305/oommffoooo?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 > ⭐️ Thanks to everyone for using Alexa Server, That is the greatest pleasure we have !
 
-### Adarsh (Victor) – History This Bot Is Clone On [Team Yukki](https://github.com/TeamYukki)
+### Azam (sharif) – History This Bot Is Clone On [Team Yukki](https://github.com/TeamYukki)
 
-<a href="https://www.youtube.com/Adarshtiwari1305"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
+<a href="https://www.youtube.com/Sofiyajaan"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
 
 ## Features ❤️”®
 
-- Gban Added By [Me](https://t.me/Hitler_fed)
+- Gban Added By [Me](https://t.me/Azam_sharif_OWNER)
 - Automatically Thambnail Generator By [Team Yukki](https://github.com/TeamYukki)
-- Customize Button Added [Me](https://t.me/Hitler_fed)
+- Customize Button Added [Me](https://t.me/Azam_sharif_OWNER)
 - Channel Stream Added 
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
@@ -79,7 +79,7 @@
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [🅐Ⓓ🅐Ⓡ🅢Ⓗ✨🅣Ⓘ🅦Ⓐ🅡Ⓘ](https://t.me/Hitler_fed_owner)
+- [⁪⁪🇮🇳デ🖤⃝✮͢₴₳Ɽł₣ 𝘼𝙕𝘼𝙈✮͢➻❥⃟♛ﮩﮩ٨࿐‌═一‌ٖٖٖٖٖٖٜٖ‌ٖٖٖٖٖٖٜٖٖٖٖٖ‌ٖ](https://t.me/Azam_sharif_OWNER)
 
 
 - [ʏᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
@@ -90,8 +90,8 @@
 <summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
 <br>
 
-- [ᴍᴜᴋᴜ](https://t.me/LEGEND_MUKUND)
-- [ᴅᴇᴠɪʟ](https://t.me/its_devil_911)
+- [Azam](https://t.me/Azam_sharif_OWNER)
+- [biology](https://t.me/Aimer000)
 
 </details>
 
@@ -100,8 +100,8 @@
 <br>
 
 # ❤️ Support
-<a href="https://t.me/Shrutikidiary"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Hitler_fed"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/azam_sharif_gorup><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/cinema_a2z"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 
